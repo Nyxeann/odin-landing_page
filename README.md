@@ -1,1 +1,5 @@
 # odin-landing_page
+
+THE ODIN PROJECT
+
+A LANDING PAGE PROJECT
